@@ -1,0 +1,16 @@
+# 忽略虚拟环境
+.venv/
+venv/
+
+# 编译缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode本地配置（可选）
+.vscode/
+
+# 系统缓存
+.DS_Store
+Thumbs.db
