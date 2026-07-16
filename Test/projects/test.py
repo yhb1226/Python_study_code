@@ -8,3 +8,4 @@ gender = '男'
 info = f'他是{name},它的性别是{gender},它的年龄是{age}'
 print(info)
 
+ 
