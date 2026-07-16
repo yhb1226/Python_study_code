@@ -11,3 +11,4 @@ print(info)
  # 输入语句
 age = input()
 print(age)
+print(type(age))
