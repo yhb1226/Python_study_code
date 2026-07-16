@@ -10,5 +10,6 @@ print(info)
 
  # 输入语句
 age = input()
+age = int(age)
 print(age)
 print(type(age))
