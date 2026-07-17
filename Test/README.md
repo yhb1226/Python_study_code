@@ -39,3 +39,16 @@ for a in range(6):
 print('结束') 
 ```
 ## 第三章
+    1.函数
+```py
+    def welcome():
+    print('欢迎')
+
+for a in range(7):
+    welcome()
+```
+    2.实参和形参是和C语言一样的
+
+
+
+
