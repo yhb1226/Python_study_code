@@ -11,4 +11,4 @@ def welcome():
     print('欢迎')
 
 for a in range(7):
-    welcome()
+    welcome() 
