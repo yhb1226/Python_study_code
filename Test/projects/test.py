@@ -7,8 +7,9 @@ a = 1
 #     print('python')
 # print('结束')    
 
+
 class Person:
     def __init__(self, name, age, gender):
         self.name = name
         self.age = age
-        self.gender = gender
+        self.gender = gender 
